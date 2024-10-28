@@ -11,6 +11,7 @@ public class ControllerVisor : MonoBehaviour
 
     public float sensibility = 5f;
     public float smooth = 2f;
+    
 
     public GameObject player;
 

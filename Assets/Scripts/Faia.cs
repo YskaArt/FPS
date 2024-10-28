@@ -9,11 +9,8 @@ public class Faia : MonoBehaviour
 
 
     public Vector3 Spawnposition;
-    void Start()
-    {
-        
-    }
-
+   
+    
   
     void Update()
     {
